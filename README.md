@@ -1,6 +1,7 @@
 # npmtest-manifoldjs
 
-test coverage for  [manifoldjs (v0.7.6)](https://github.com/manifoldjs/ManifoldJS)  [![npm package](https://img.shields.io/npm/v/npmtest-manifoldjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-manifoldjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-manifoldjs.svg)](https://travis-ci.org/npmtest/node-npmtest-manifoldjs)
+#### basic test coverage for  [manifoldjs (v0.7.6)](https://github.com/manifoldjs/ManifoldJS)  [![npm package](https://img.shields.io/npm/v/npmtest-manifoldjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-manifoldjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-manifoldjs.svg)](https://travis-ci.org/npmtest/node-npmtest-manifoldjs)
+
 #### Node.js Tool for App Generation
 
 [![NPM](https://nodei.co/npm/manifoldjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/manifoldjs)
@@ -9,7 +10,7 @@ test coverage for  [manifoldjs (v0.7.6)](https://github.com/manifoldjs/ManifoldJ
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-manifoldjs/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-manifoldjs/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-manifoldjs/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-manifoldjs/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-manifoldjs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-manifoldjs/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-manifoldjs/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-manifoldjs/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-manifoldjs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-manifoldjs/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-manifoldjs/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-manifoldjs/build/coverage.html/index.html)
 
